@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": 802373,
+      "name": "Kowsalya",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Submitted",
+      "claimprogram": "Health Issue",
+      "startdate": "05/06/1930",
+      "enddate": "04/06/2030"
+    },
+    {
+      "id": 802375,
+      "name": "Gnana Prakash",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Recieved",
+      "claimprogram": "Health Issue",
+      "startdate": "06/01/1997",
+      "enddate": "02/05/2025"
+    },
+    {
+      "id": 787676,
+      "name": "John",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Pending",
+      "claimprogram": "Accident",
+      "startdate": "03/02/1990",
+      "enddate": "02/05/2025"
+    },
+    {
+      "id": 787602,
+      "name": "Jeni",
+      "claimno": "445566776",
+      "claimtype": "Pending",
+      "claimprogram": "Health Issue",
+      "startdate": "05/06/1930",
+      "enddate": "04/06/2030"
+    },
+    {
+      "id": 803434,
+      "name": "LakshmiPriya",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Denied",
+      "claimprogram": "Health Issue",
+      "startdate": "05/06/1930",
+      "enddate": "02/05/2025"
+    },
+    {
+      "id": 565678,
+      "name": "Darel Jones",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Rejected",
+      "claimprogram": "Health Issue",
+      "startdate": "03/02/1990",
+      "enddate": "02/05/2025"
+    },
+    {
+      "id": 768768,
+      "name": "Kurtis Weissnat",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Paid",
+      "claimprogram": "Accident",
+      "startdate": "05/06/1930",
+      "enddate": "04/06/2030"
+    },
+    {
+      "id": 879878,
+      "name": "Nicholas V",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Pending",
+      "claimprogram": "Health Issue",
+      "startdate": "03/02/1990",
+      "enddate": "02/05/2025"
+    },
+    {
+      "id": 878787,
+      "name": "Glenna Reichert",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Denied",
+      "claimprogram": "Accident",
+      "startdate": "05/06/1930",
+      "enddate": "04/06/2030"
+    },
+    {
+      "id": 802340,
+      "name": "Clementina DuBuque",
+      "claimno": "XXX-XXX-XXX",
+      "claimtype": "Paid",
+      "claimprogram": "Accident",
+      "startdate": "03/02/1990",
+      "enddate": "02/03/2050"
+    },
+    {
+      "id": "76687",
+      "name": "kjlk",
+      "claimno": "34324fds",
+      "claimtype": "Paid",
+      "claimprogram": "vdfvfdf",
+      "startdate": "2020-09-04",
+      "enddate": "2020-11-13"
+    },
+    {
+      "id": "787899",
+      "name": "Ruvi",
+      "claimno": "667767676",
+      "claimtype": "Received",
+      "claimprogram": "health Problem",
+      "startdate": "2001-11-10",
+      "enddate": "2070-12-02"
+    },
+    {
+      "id": 879879,
+      "name": "",
+      "claimno": "",
+      "claimtype": "MoreInfoRequired",
+      "claimprogram": "",
+      "startdate": "",
+      "enddate": ""
+    }
+  ]
+}

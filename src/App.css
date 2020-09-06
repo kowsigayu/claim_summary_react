@@ -1,0 +1,61 @@
+#login-form {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 20px;
+  background: #f2f2f2;
+  border-radius: 1.5em;
+}
+#Empid, #password, #claimNoError, #claimProgramError, #endDateError, #startDateError {
+  padding-left: 10px;
+  color: red;
+}
+#login-form h1 {
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+#login-form input {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 10px;
+  padding: 10px;
+}
+#login-form input[type=button] {
+  border: 0;
+  background: #4367c4;
+  color: #fff;
+}
+.navbar {
+  padding: 0px !important;
+}
+.navbar-brand {
+  color: #fff;
+}
+#signinbutton {
+  position: relative;
+  left: 10px;
+  width: 100%;
+}
+#home {
+  position: relative;
+  left: 50px;
+}
+footer {
+position: absolute;
+left: 0;
+bottom: 0;
+background: #4566b1;
+width: 100%;
+padding: 5px;
+font-family: Verdana;
+font-size: 12px;
+letter-spacing: 1px;
+color: #fff;
+text-align: center;
+}
+footer span {
+display: inline-block;
+min-width: 200px;
+margin: 5px 0 5px 0;
+}
+
